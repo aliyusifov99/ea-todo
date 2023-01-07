@@ -1,2 +1,2 @@
 # ea-todo
-To do desktop application using PySide6
+"EA ToDo" desktop application using PySide6
